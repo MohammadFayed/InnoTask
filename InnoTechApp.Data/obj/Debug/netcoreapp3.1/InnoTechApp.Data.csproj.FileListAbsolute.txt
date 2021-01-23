@@ -10,3 +10,15 @@ C:\Users\hp\source\repos\InnoTechApp\InnoTechApp.Data\obj\Debug\netcoreapp3.1\In
 C:\Users\hp\source\repos\InnoTechApp\InnoTechApp.Data\obj\Debug\netcoreapp3.1\InnoTechApp.Data.csproj.CopyComplete
 C:\Users\hp\source\repos\InnoTechApp\InnoTechApp.Data\obj\Debug\netcoreapp3.1\InnoTechApp.Data.dll
 C:\Users\hp\source\repos\InnoTechApp\InnoTechApp.Data\obj\Debug\netcoreapp3.1\InnoTechApp.Data.pdb
+C:\Users\hp\source\InnoTask\InnoTechApp.Data\bin\Debug\netcoreapp3.1\InnoTechApp.Data.deps.json
+C:\Users\hp\source\InnoTask\InnoTechApp.Data\bin\Debug\netcoreapp3.1\InnoTechApp.Data.dll
+C:\Users\hp\source\InnoTask\InnoTechApp.Data\bin\Debug\netcoreapp3.1\InnoTechApp.Data.pdb
+C:\Users\hp\source\InnoTask\InnoTechApp.Data\bin\Debug\netcoreapp3.1\InnoTechApp.Core.dll
+C:\Users\hp\source\InnoTask\InnoTechApp.Data\bin\Debug\netcoreapp3.1\InnoTechApp.Core.pdb
+C:\Users\hp\source\InnoTask\InnoTechApp.Data\obj\Debug\netcoreapp3.1\InnoTechApp.Data.csprojAssemblyReference.cache
+C:\Users\hp\source\InnoTask\InnoTechApp.Data\obj\Debug\netcoreapp3.1\InnoTechApp.Data.AssemblyInfoInputs.cache
+C:\Users\hp\source\InnoTask\InnoTechApp.Data\obj\Debug\netcoreapp3.1\InnoTechApp.Data.AssemblyInfo.cs
+C:\Users\hp\source\InnoTask\InnoTechApp.Data\obj\Debug\netcoreapp3.1\InnoTechApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\InnoTask\InnoTechApp.Data\obj\Debug\netcoreapp3.1\InnoTechApp.Data.csproj.CopyComplete
+C:\Users\hp\source\InnoTask\InnoTechApp.Data\obj\Debug\netcoreapp3.1\InnoTechApp.Data.dll
+C:\Users\hp\source\InnoTask\InnoTechApp.Data\obj\Debug\netcoreapp3.1\InnoTechApp.Data.pdb

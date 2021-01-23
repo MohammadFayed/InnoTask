@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zu+4w6bYAYRt+IoSgrj3vMQUnEAsT6DWx9YiytYPAk7ZXoARRwCRBlkFvP39bc7cPRGWL+zQ+Yvl8jVl+a2i3g==",
+  "dgSpecHash": "amKrA/YlWx/x6oad7wOpxjr4jN0mYxyffMRmTzvoez59nnGkBBMCKDb0VayuAhS0R+3m84esM3LLzR/v3/VWMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\source\\repos\\InnoTechApp\\InnoTechApp\\InnoTechApp.csproj",
+  "projectFilePath": "C:\\Users\\hp\\source\\InnoTask\\InnoTechApp\\InnoTechApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

@@ -8638,11 +8638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\InnoTechApp\\InnoTechApp\\InnoTechApp.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\source\\InnoTask\\InnoTechApp\\InnoTechApp.csproj",
       "projectName": "InnoTechApp",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\InnoTechApp\\InnoTechApp\\InnoTechApp.csproj",
+      "projectPath": "C:\\Users\\hp\\source\\InnoTask\\InnoTechApp\\InnoTechApp.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\InnoTechApp\\InnoTechApp\\obj\\",
+      "outputPath": "C:\\Users\\hp\\source\\InnoTask\\InnoTechApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8659,8 +8659,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\hp\\source\\repos\\InnoTechApp\\InnoTechApp.Data\\InnoTechApp.Data.csproj": {
-              "projectPath": "C:\\Users\\hp\\source\\repos\\InnoTechApp\\InnoTechApp.Data\\InnoTechApp.Data.csproj"
+            "C:\\Users\\hp\\source\\InnoTask\\InnoTechApp.Data\\InnoTechApp.Data.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\InnoTask\\InnoTechApp.Data\\InnoTechApp.Data.csproj"
             }
           }
         }

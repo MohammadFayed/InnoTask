@@ -9,7 +9,6 @@ namespace InnoTechApp.Data
     {
 
         IEnumerable<Course> AllCourses();
-        IEnumerable<Course> GetCourseswithEnrollments();
         Course GetCourseById(int id);
         public IEnumerable<Course> GetByName(string searchForm);
         Course AddCourse(Course createCourse);

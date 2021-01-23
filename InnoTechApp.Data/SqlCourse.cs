@@ -19,10 +19,6 @@ namespace InnoTechApp.Data
         {
             return _context.Courses.ToList();
         }
-        public IEnumerable<Course> GetCourseswithEnrollments()
-        {
-            return _context.Courses.Include(c => c.Enrollments).ToList();
-        }
 
         public Course GetCourseById(int id)
         {
@@ -33,6 +29,7 @@ namespace InnoTechApp.Data
         {
             return _context.Courses
                 .Where(c => c.Name.StartsWith(searchForm) || string.IsNullOrEmpty(searchForm))
+                .Include(c => c.Enrollments)
                 .ToList();
         }
 

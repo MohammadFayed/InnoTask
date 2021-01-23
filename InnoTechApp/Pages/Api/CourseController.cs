@@ -29,7 +29,7 @@ namespace InnoTechApp.Pages.Api
             }
             catch (Exception)
             {
-                return this.StatusCode(StatusCodes.Status500InternalServerError, "Database Failure");
+                return this.StatusCode(StatusCodes.Status500InternalServerError, "DataBase Failure");
             }
         }
     }

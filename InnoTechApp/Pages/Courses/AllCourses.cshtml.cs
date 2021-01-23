@@ -22,7 +22,7 @@ namespace InnoTechApp.Pages.Courses
         }
         public void OnGet()
         {
-            Courses = _courseData.GetCourseswithEnrollments();
+            Courses = _courseData.GetByName(SearchForm);
         }
     }
 }
