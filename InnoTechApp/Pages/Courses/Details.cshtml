@@ -1,0 +1,26 @@
+﻿@page "{courseId:int}"
+@model InnoTechApp.Pages.Courses.DetailsModel
+@{
+    ViewData["title"] = "Course Details";
+}
+
+<h2>All Information about @Model.Course.Name</h2>
+
+<div>
+    <p class="detials">@Html.DisplayNameFor(c => c.Course.CourseId) : </p>
+    @Model.Course.CourseId
+</div>
+<div>
+    <p class="detials">@Html.DisplayNameFor(c => c.Course.Name) : </p>
+    @Model.Course.Name
+</div>
+<div>
+    <p class="detials">@Html.DisplayNameFor(c => c.Course.Price) : </p>
+    @Model.Course.Price $
+</div>
+<div>
+    <p class="detials">@Html.DisplayNameFor(c => c.Course.Description) : </p>
+    @Model.Course.Description
+</div>
+
+<a asp-page="./AllCourses" class="btn btn-primary mt-2">Back To Show All Courses</a>

@@ -1,0 +1,18 @@
+﻿@page
+@model InnoTechApp.Pages.Enrollments.IndexModel
+@{
+    ViewData["title"] = "Enrollment Data";
+}
+
+<h3 class="text-center"> Show Data about Student Enrollment </h3>
+<div class="list-group">
+    @foreach (var enrollment in @Model.Enrollments)
+    {
+        <a href="#" class="list-group-item list-group-item-action">
+            <p class="mb-1">
+                <b>@enrollment.Student.Name</b> enrollmented in <b>@enrollment.Course.Name</b> course
+            </p>
+            <small>@enrollment.Date.ToString("dddd dd-MM-yyyy")</small>
+        </a>
+    }
+</div>

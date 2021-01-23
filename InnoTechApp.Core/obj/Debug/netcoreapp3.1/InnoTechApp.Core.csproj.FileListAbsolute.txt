@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\InnoTechApp\InnoTechApp.Core\bin\Debug\netcoreapp3.1\InnoTechApp.Core.deps.json
+C:\Users\hp\source\repos\InnoTechApp\InnoTechApp.Core\bin\Debug\netcoreapp3.1\InnoTechApp.Core.dll
+C:\Users\hp\source\repos\InnoTechApp\InnoTechApp.Core\bin\Debug\netcoreapp3.1\InnoTechApp.Core.pdb
+C:\Users\hp\source\repos\InnoTechApp\InnoTechApp.Core\obj\Debug\netcoreapp3.1\InnoTechApp.Core.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\InnoTechApp\InnoTechApp.Core\obj\Debug\netcoreapp3.1\InnoTechApp.Core.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\InnoTechApp\InnoTechApp.Core\obj\Debug\netcoreapp3.1\InnoTechApp.Core.AssemblyInfo.cs
+C:\Users\hp\source\repos\InnoTechApp\InnoTechApp.Core\obj\Debug\netcoreapp3.1\InnoTechApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\InnoTechApp\InnoTechApp.Core\obj\Debug\netcoreapp3.1\InnoTechApp.Core.dll
+C:\Users\hp\source\repos\InnoTechApp\InnoTechApp.Core\obj\Debug\netcoreapp3.1\InnoTechApp.Core.pdb

@@ -1,0 +1,48 @@
+﻿@page
+@model InnoTechApp.Pages.Courses.AllCoursesModel
+@{
+    ViewData["title"] = "All Courses";
+}
+@if (!string.IsNullOrEmpty((string)TempData["message"]))
+{
+    <div class="toast alert-success text-capitalize text-center" role="alert" aria-live="assertive" aria-atomic="true" data-delay="5000">
+        <div class="toast-body">
+            @TempData["Message"]
+        </div>
+    </div>
+}
+
+<form>
+    <div class="form-group">
+        <div class="input-group">
+            <input class="form-control" asp-for="SearchForm">
+            <button class="btn btn-primary">Search</button>
+        </div>
+    </div>
+</form>
+<table class="table">
+    <thead>
+    <tr>
+        <td>Name</td>
+        <td>Price</td>
+        <td>Discription</td>
+        <td>Enrollments</td>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var course in Model.Courses)
+    {
+        <partial name="_summary" model="course"/>
+    }
+    </tbody>
+</table>
+<a asp-page="./Edit" class="btn btn-primary">Add Course</a>
+
+@section Scripts
+{
+    <script>
+        $(document).ready(function() {
+            $(".toast").toast('show');
+        })
+    </script>
+}
